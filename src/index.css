@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url(component/image/Group\ 1766.png), url(component/image/Group\ 1767.png);
+ background-position: top,bottom;
+  min-height: 97vh;
+  min-width: 100vw;
+  background-size: 100% 50%;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 255, 255, 0.624);
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,152 @@
+.conatiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.spinlogo{
+
+    width: 40%;
+    height: 40%;
+    min-width: 250px;
+    min-height: 250px;
+}
+
+.widthSet{
+    width: 60%;
+}
+
+.first{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.flexRow{
+    margin-top: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.marginRight{
+    margin-right: 5%;
+    margin-left: 3%;
+}
+
+input{
+    border: none;
+    outline: none;
+    
+}
+
+.checkBox{
+    display: flex;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.checkboxLogo{
+    background-color: black;
+
+    accent-color: rgb(255, 255, 255);
+}
+
+.greenBtn{
+    margin-top: 10px;
+    width:60%;
+    height: 45px;
+    background-color:#146531;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.tnc{
+    width: 60%;
+    margin-top: 10px;
+    font-size: 10px;
+}
+
+.flexRight{
+    width: 60%;
+    display: flex;
+    justify-content: right;
+    font-weight: bold;
+}
+
+.noLucky{
+    cursor: pointer;
+    margin-left: 2px;
+    border: 1px solid black;
+    padding: 0 3px 0 3px;
+    border-radius: 50%;
+}
+
+.copybtn{
+    height: 45px;
+    font-size: 25px;
+    background-color: rgba(0, 255, 0, 0.6);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding-right: 0PX;
+    border: none;
+}
+
+.copyBtnnSpan{
+    background-color: #146531;
+    padding: 10px 3px 10px 3px;
+    cursor: pointer;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.winlogo{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.flex{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.offerLogo{
+    width: 350px;
+    height:350px;
+    transition: all ease-in-out 5s;
+}
+.greenBtnSmall{
+    margin-top: 10px;
+    width:150px;
+    height: 45px;
+    background-color:#146531;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.gift{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 43%;
+}
